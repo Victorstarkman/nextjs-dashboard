@@ -1,7 +1,5 @@
-import Image from 'next/image'
-export default function Customers(){
-    return(
-        <p> Customer page</p>
+export default function Page(){
+    return<p> Customer page</p>
         
-    ) 
+    
 }
